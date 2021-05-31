@@ -38,3 +38,7 @@ code {
     left: 0;
     right: 0;
 }
+
+em {
+    font-weight:bold ;
+}
